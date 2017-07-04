@@ -1,0 +1,8 @@
+struct GoodbyeWorld{
+string<128> msg;
+};//@top-level true
+
+struct HelloWorld {
+string<128> msg2;
+};//@top-level true
+
